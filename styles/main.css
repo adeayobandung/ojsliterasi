@@ -1,0 +1,13 @@
+/* style untuk tampilan depan - homesite */
+
+#site-description{
+    padding: 20px;
+    border-radius: 5px;
+}
+.homecover {
+    text-align: center;
+    padding: 10px 10px 15px 10px;
+}
+.image-responsive {
+    width: 100%;
+}

@@ -1,0 +1,87 @@
+#header-title {
+    margin: 0px 10px;
+}
+.form-control.top-search {
+    margin-right: -30px;
+}
+.navbar, .header_view {
+    border-radius: 0;
+}
+#about-home {
+    padding-top: 3%;
+}
+.pkp_page_index .journal-description{
+    margin-top: 0;
+}
+.blockTitle {
+    color: #333;
+    background-color:#f5f5f5;
+    border-color:    #ddd;
+    display: block;
+    padding: 10px 15px;
+    margin: -15px -15px -10px -15px;
+}
+ul.sidemenu {
+    margin: -10px -15px -15px -15px !important;
+}
+.panel > .list-group, .panel > .panel-collapse > .list-group, .pkp_block ul {
+    margin: -15px;
+}
+.block-content {
+    padding-top: 15px;
+}
+.text-center{
+    text-align: center;
+}
+.maintitle {
+    margin: 0 0 10px 0;
+}
+.tocnumber {
+    padding: 10px 2px 0 2px;
+    margin: 0;
+}
+.pagenumber {
+    padding-top: 10px;
+}
+.head-article {
+    font-size: 1.3em;
+}
+.article-abstract {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+.page-header {
+    margin: 5px 0 20px;
+    border-bottom: 1px solid #eee;
+    text-align: justify;
+}
+.img-header {
+    width: 100%;
+}
+#navigationUser {
+    margin-top: 4px;
+}
+ul.sidemenu a {
+    color: #fff;
+}
+.pkp_structure_page {
+    background: url(http://journal.uinsgd.ac.id/public/site/images/bbusro/cloth.png);
+    background-repeat: repeat;
+}
+.pkp_structure_content.container {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding-top: 10px;
+    background: #fff;
+}
+.navbar, .header_view {
+    margin-bottom: 0px;
+}
+footer[role="contentinfo"] {
+    margin-top: 0;
+}
+@media (max-width:768px){
+    .page-header {
+        text-align: left;
+    }
+}
